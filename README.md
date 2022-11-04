@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="display: flex;">
 <a href="https://app.daily.dev/mmikelip"><img src="https://api.daily.dev/devcards/0357d9ece5be4ace9fe5a0462a65fa8a.png?r=lm3" width="400" alt="Mateus Michelli Pereira's Dev Card"/></a>
 
-🔭 I’m currently working on my five millionaire projects
+  <p>🔭 I’m currently working on my five millionaire projects</p>
+
+  </div>
