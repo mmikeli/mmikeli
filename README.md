@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mmikeli/mmikeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mmikeli/mmikeli/blob/master/devcard.svg" width="400" alt="MateusM's Dev Card"/></a>
